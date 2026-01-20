@@ -15,7 +15,7 @@ timestamp = (
 )
 
 payload = {
-    "action_run_link": "REPLACE_ME_AFTER_FIRST_RUN",
+    "action_run_link": "https://github.com/andrzej-caresolace/b12_apply/actions/runs/21158982204",
     "email": "andrzejgrabowski815@gmail.com",
     "name": "Andrzej Grabowski",
     "repository_link": "https://github.com/andrzej-caresolace/b12_apply",
